@@ -1,0 +1,35 @@
+2021-06-29 13:51:33,012 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 13:51:52,561 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.10999999999999999, best pos: [0 1 1 1 0 1 0 1 1 1 0 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 0 1 1 1
+ 1 1 1 1 1 0 1 1 1 1 0 0 1]
+2021-07-05 17:01:16,521 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:02:16,755 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:02:43,710 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:03:03,123 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:03:38,112 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:03:58,983 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:04:12,640 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:04:29,241 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 17:20:24,587 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.2590909090909091, best pos: [1 1 1 1 1 0 0 1 1 1 0 1 0 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 1 1 1 1 0 1 0 1 1
+ 1 1 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 1 1 1 1 1 0 0 1 1 0 1
+ 0 1 0 0 1 1]
+2021-07-05 18:36:13,788 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:37:29,676 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:37:46,616 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:38:00,906 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:38:23,301 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:39:09,183 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:39:54,099 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:42:49,767 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:46:16,836 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-07-05 18:49:35,010 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: -0.7, best pos: [0 1 0 0]
+2021-07-12 16:55:51,945 - sklearn.datasets._twenty_newsgroups - INFO - Downloading 20news dataset. This may take a few minutes.
+2021-07-12 16:55:51,961 - sklearn.datasets._twenty_newsgroups - INFO - Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+2021-07-12 16:56:45,545 - sklearn.datasets._twenty_newsgroups - INFO - Downloading 20news dataset. This may take a few minutes.
+2021-07-12 16:56:45,546 - sklearn.datasets._twenty_newsgroups - INFO - Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+2021-07-12 17:00:24,438 - sklearn.datasets._twenty_newsgroups - INFO - Downloading 20news dataset. This may take a few minutes.
+2021-07-12 17:00:24,439 - sklearn.datasets._twenty_newsgroups - INFO - Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+2021-07-12 17:08:01,753 - sklearn.datasets._twenty_newsgroups - INFO - Downloading 20news dataset. This may take a few minutes.
+2021-07-12 17:08:01,753 - sklearn.datasets._twenty_newsgroups - INFO - Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+2021-07-12 17:08:32,912 - sklearn.datasets._twenty_newsgroups - INFO - Downloading 20news dataset. This may take a few minutes.
+2021-07-12 17:08:32,912 - sklearn.datasets._twenty_newsgroups - INFO - Downloading dataset from https://ndownloader.figshare.com/files/5975967 (14 MB)
+2021-07-13 01:33:09,247 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}

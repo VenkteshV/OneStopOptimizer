@@ -1,0 +1,16 @@
+2021-06-29 02:12:12,086 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:12:54,020 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:15:15,323 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:15:26,026 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:15:35,909 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:15:55,391 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:16:05,583 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:18:14,145 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.125, best pos: [1 1 1 1 1 1 1 1 1 1 1 1 1 1 1]
+2021-06-29 02:20:29,761 - pyswarms.discrete.binary - INFO - Optimize for 1000 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:21:01,897 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:21:28,653 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.11499999999999999, best pos: [1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0 0 0 0 1 1 1 0 1 1 1 1 1 1 1 1 0 1 1 1 0
+ 1 0 1 1 0 1 0 1 1 1 1 1 1 1 0 1 0 1 1 0 1 1 1 1 1 1 1 0 1 1 1 1 1 1 1 1 0
+ 0 1 1 0 1 1 0 0 1 1 0 1 1 1 1 1 0 1 1 0 1 1 1 1 1 1]
+2021-06-29 02:21:44,680 - pyswarms.discrete.binary - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.5, 'w': 0.9, 'k': 30, 'p': 2}
+2021-06-29 02:22:05,473 - pyswarms.discrete.binary - INFO - Optimization finished | best cost: 0.11499999999999999, best pos: [0 1 0 1 1 1 1 1 1 1 1 1 1 1 0 0 1 1 1 1 1 0 1 1 1 0 1 0 1 0 1 0 1 1 0 1 1
+ 1 1 1 1 0 1 1 1 1 1 1 1 1]
