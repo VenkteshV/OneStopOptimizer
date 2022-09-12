@@ -4,9 +4,9 @@ Your onestop optimizer package that implements Binary versions of Bayesian optim
 
 The algorithms implemented are <br />
 :boom: Bayesian Optimization <br />
-:star Bayesian Optimization with Warm start.<br />
-:exclamation Particle swarm opitmization<br />
-:star Simulated Annealing<br />
+:star: Bayesian Optimization with Warm start.<br />
+:exclamation: Particle swarm opitmization<br />
+:star: Simulated Annealing<br />
 
 More additions are welcome. Please raise an issue or implement and feel free to submit a PR
 
