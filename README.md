@@ -2,11 +2,11 @@
 
 Your onestop optimizer package that implements Binary versions of Bayesian optimization and Particle Swarm optimization reusing existing libraries for use cases of model selection and feature selection.
 
-The algorithms implemented are :
-:boom Bayesian Optimization
-:star Bayesian Optimization with Warm start.
-:exclamation Particle swarm opitmization
-:star Simulated Annealing
+The algorithms implemented are <br />
+:boom: Bayesian Optimization <br />
+:star Bayesian Optimization with Warm start.<br />
+:exclamation Particle swarm opitmization<br />
+:star Simulated Annealing<br />
 
 More additions are welcome. Please raise an issue or implement and feel free to submit a PR
 
